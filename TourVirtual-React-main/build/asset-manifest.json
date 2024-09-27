@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pastortz/Tour_Salcaja.git/build/static/css/main.d8dc3a91.css",
+    "main.js": "/Pastortz/Tour_Salcaja.git/build/static/js/main.37e9f1c8.js",
+    "static/js/787.314474ed.chunk.js": "/Pastortz/Tour_Salcaja.git/build/static/js/787.314474ed.chunk.js",
+    "static/media/sprites.svg": "/Pastortz/Tour_Salcaja.git/build/static/media/sprites.c08944fed399e84633d0.svg",
+    "index.html": "/Pastortz/Tour_Salcaja.git/build/index.html",
+    "static/media/grabbing.svg": "/Pastortz/Tour_Salcaja.git/build/static/media/grabbing.92ec62eb995e79248066.svg",
+    "static/media/grab.svg": "/Pastortz/Tour_Salcaja.git/build/static/media/grab.6a052e927d39314632fd.svg",
+    "static/media/background.svg": "/Pastortz/Tour_Salcaja.git/build/static/media/background.73c746e88409ccb4b512.svg",
+    "static/media/compass.svg": "/Pastortz/Tour_Salcaja.git/build/static/media/compass.0f193cd39061ea43cc46.svg",
+    "main.d8dc3a91.css.map": "/Pastortz/Tour_Salcaja.git/build/static/css/main.d8dc3a91.css.map",
+    "main.37e9f1c8.js.map": "/Pastortz/Tour_Salcaja.git/build/static/js/main.37e9f1c8.js.map",
+    "787.314474ed.chunk.js.map": "/Pastortz/Tour_Salcaja.git/build/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8dc3a91.css",
+    "static/js/main.37e9f1c8.js"
+  ]
+}

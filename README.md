@@ -1,78 +1,32 @@
 # Description
 
-Tour virtual y realidad aumentada con react, para navegar en un espacio.
+El **objetivo de crear y utilizar una página de tour virtual** como la que estás desarrollando para Salcajá tiene varios enfoques, tanto para el usuario final como para quienes gestionan el contenido. Aquí te detallo algunos de los objetivos principales:
 
-Video explicacion del codigo: [https://youtu.be/SYHd_2JWTOA].\
+### 1. **Promoción Cultural y Turística**
+   - **Mostrar la riqueza cultural**: El principal objetivo es resaltar la cultura, tradiciones, historia, arquitectura y patrimonio de Salcajá, Quetzaltenango. Los recorridos virtuales permiten a los usuarios explorar estos aspectos de una manera interactiva y atractiva.
+   - **Atraer turismo**: Con una plataforma visual y accesible, los turistas potenciales pueden ver qué les ofrece el municipio y planear su visita. Es una excelente forma de promocionar el turismo local, incluso a nivel internacional.
+  
+### 2. **Accesibilidad y Conveniencia**
+   - **Exploración remota**: Permite que personas de todo el mundo puedan conocer Salcajá sin necesidad de estar físicamente presentes, lo que puede ser atractivo para quienes no pueden viajar.
+   - **Disponibilidad 24/7**: Un tour virtual está disponible en cualquier momento, permitiendo a los usuarios explorar a su propio ritmo.
 
-Suscribete en mi canal: [https://www.youtube.com/channel/UC3htGF9aIZPdPCCHO6sTQLg]
+### 3. **Fomento de la Economía Local**
+   - **Impulso a negocios locales**: La página puede incluir secciones sobre hospedajes, restaurantes y tiendas locales, permitiendo que los usuarios reserven o contacten con estos servicios, lo cual beneficia directamente a los comerciantes locales.
+   - **Promoción de productos y servicios**: En especial, para productos culturales de San Francisco El Alto, este tipo de plataforma facilita la comercialización en línea, tal como lo estás implementando con tu app de comercio de productos culturales.
 
-# Getting Started with Create React App
+### 4. **Educación e Intercambio Cultural**
+   - **Aprendizaje cultural**: Los tours virtuales son una herramienta educativa que puede ser utilizada en escuelas o por turistas curiosos que desean aprender más sobre la cultura y la historia del lugar.
+   - **Intercambio cultural**: Los usuarios que exploren el municipio de forma virtual pueden compartir sus experiencias, aprendiendo y difundiendo la cultura y las tradiciones locales.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 5. **Innovación Tecnológica**
+   - **Demostrar el potencial de la tecnología**: Al utilizar herramientas avanzadas como React, Panellum y JavaScript, la página de tour virtual puede servir como un ejemplo de cómo la tecnología moderna puede ser utilizada para crear experiencias inmersivas y educativas.
+   - **Experiencia de usuario**: Crear experiencias inmersivas en 360 grados le da un toque de innovación y modernidad a la presentación de información turística, diferenciándola de las tradicionales guías impresas o páginas web estáticas.
 
-## Available Scripts
+### 6. **Sostenibilidad**
+   - **Reducción de la huella de carbono**: Los tours virtuales permiten a las personas explorar destinos sin viajar físicamente, lo que reduce la huella de carbono asociada con el transporte.
+   - **Preservación**: Facilita la preservación de sitios históricos y culturales, ya que las visitas físicas pueden controlarse mejor al ofrecer alternativas virtuales.
 
-In the project directory, you can run:
+### 7. **Atracción de Inversión**
+   - **Inversión en turismo y cultura**: La visibilidad que proporciona una plataforma de tour virtual puede atraer a inversores o proyectos de desarrollo que quieran promover la región, beneficiando al municipio y su gente.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto tiene un gran potencial para influir positivamente en diversos aspectos del municipio, desde el turismo y la cultura hasta la economía local, utilizando herramientas tecnológicas avanzadas para hacerlo accesible y atractivo para usuarios de todo el mundo.
